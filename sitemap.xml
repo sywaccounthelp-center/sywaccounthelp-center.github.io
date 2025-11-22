@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://sywaccounthelp-center.github.io/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://sywaccounthelp-center.github.io/#login-guide</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://sywaccounthelp-center.github.io/#activate-account</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://sywaccounthelp-center.github.io/#forgot-password</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://sywaccounthelp-center.github.io/#register-account</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://sywaccounthelp-center.github.io/#make-payment</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://sywaccounthelp-center.github.io/#faq</loc>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
